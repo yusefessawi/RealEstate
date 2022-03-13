@@ -1,7 +1,7 @@
 # RealEstate
 Real Estate Projects using Python to build estimators of home value and market growth in Northern Virginia. 
 
- ### Welcome to my real estate repository! I am so excited to have you here. 
+ ### Welcome to my real estate repository! I am excited to have you here. 
 
  As of the beginning of 2022, foreclosures are on the rise. Coupled with the fact that home purchases tends to be the largest purchase a person makes in their lifetime, it can be unfortunate and even catastrophic to make a mistake when buying a home. While foreclosures and a volatile market may be concerning, prejudice is also a problem that can arise in real estate. Despite the existence of the fair-housing act, testimonials detail discriminatory practices that can occur for people of color when a formal appraiser is called. While foreclosures are often the worst-case scenario, the better case scenario of making prudent real estate decisions can help a household achieve financial stability and overall wealth. There is an abundance of real estate data, giving hope to these issues with the possibilities afforded through data science methods, such as machine learning.
 
